@@ -1,0 +1,24 @@
+@media screen {
+    
+
+.nav-container{
+    /* width: 90%; */
+    display: flex;
+    justify-content: space-between; 
+}
+.nav-container {
+    background-color: rgb(17, 17, 16);
+    border-radius: 10px;
+    /* font-size: 30px; */
+    padding: 20px;
+    margin: 20px;
+}
+
+.btn{
+    
+    font-size: 30px;
+}
+.btn > Link{
+    color: white;
+}
+}

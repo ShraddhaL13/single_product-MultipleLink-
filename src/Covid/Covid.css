@@ -1,0 +1,28 @@
+@media screen {
+    
+}
+
+.api_name{
+    color: red;
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3.5em;
+    font-style: italic;
+ 
+}
+.card1{
+    float: left;
+    border-radius: 10%;
+    margin: 30px;
+    padding: 2rem;
+    text-align: left;
+    height: 20rem;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247, 180, 150);
+}
+.card_body2{
+    font-size: 20px;
+    font-weight: bold;
+}

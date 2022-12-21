@@ -1,0 +1,35 @@
+.container-fluid {
+  background-color: rgb(227, 233, 233);
+}
+
+.searchC {
+  margin: 10px;
+  width: 20%;
+  padding: 10px;
+}
+
+.aName {
+  padding: 30px;
+  text-align: center;
+  font-size: 80px;
+  font-style: italic;
+  color: rgb(245, 16, 16);
+}
+
+.card{
+  margin: 30px;
+  width: 20%;
+  padding: 10px;
+    float: left;
+  border-radius: 30px;
+  background-color:rgb(187, 231, 231) ;
+  width: 30%;
+  height: 25rem;
+  margin: 20px;
+  text-align: center;
+  padding: 30px;
+}
+
+.card-header{
+  background-color: rgb(255, 189, 127);
+}

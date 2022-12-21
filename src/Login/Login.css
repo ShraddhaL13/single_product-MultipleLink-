@@ -1,0 +1,32 @@
+
+  .container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50vh;
+    padding: 10px; 
+  }
+  .formName{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 3.5em;
+    margin: 90px;
+    text-decoration: underline;
+    }
+  .container > form{
+    border: 1px solid rgb(31, 27, 27);
+    padding: 30px;
+    width: 50%;
+    text-align: center;
+    background-color:rgb(235, 248, 248);
+  }
+  
+  pre {
+    width: 70%;
+    color: #fff;
+    font-size: larger;
+  }
+  
